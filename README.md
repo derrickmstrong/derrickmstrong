@@ -15,7 +15,7 @@ Motivated full-stack developer with a background in traditional and digital mark
 - <strong>Graphics-related</strong>: Illustrator, Photoshop   
 - <strong>Content Management Systems</strong>: Wordpress, Shopify, Joomla   
 - <strong>Other languages</strong>: PHP, TypeScript (Moderate), Laravel (Moderate), C# (Novice), Python (Novice), Cobol (Literally 1-2 projects)   
-- <strong>Honorable mentions</strong>: Git, Github, Command line, NPM, Deployment, Agile, SEO, Google Analytics, Website Audits and other random bits <br/><br/>     
+- <strong>Honorable mentions</strong>: Git, Github, Command line, NPM, Deployment, Agile w/Kanban, SEO, Google Analytics, Website Audits and other random bits <br/><br/>     
 
 ## About Me
 - 🔭 I’m currently working on becoming a complete developer (web, software, mobile, digital)
