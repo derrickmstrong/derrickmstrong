@@ -3,7 +3,7 @@
 -->
 <!-- <img src="" width="900" /> -->
 
-Motivated full-stack developer with a background in traditional and digital marketing. I enjoy just about everything front-end and have a healthy respect and desire to strengthen my skills in backend development as well.<br/>
+Motivated full-stack developer with a background in traditional and digital marketing. I enjoy just about everything front-end and desire to strengthen my skills in backend development as well.<br/>
 
 ## Skills
 #### Note: I added soft skills first in this list because IMO without them...the other skills aren't as impressive     
