@@ -3,7 +3,7 @@
 -->
 <!-- <img src="" width="900" /> -->
 
-Full-stack developer with a background in traditional and digital marketing. I enjoy just about everything front-end and have a healthy respect and desire to strengthen my skills in backend development as well.<br/><br/>
+Motivated full-stack developer with a background in traditional and digital marketing. I enjoy just about everything front-end and have a healthy respect and desire to strengthen my skills in backend development as well.<br/>
 
 ## Skills
 #### Note: I added soft skills first in this list because IMO without them...the other skills aren't as impressive     
@@ -15,7 +15,7 @@ Full-stack developer with a background in traditional and digital marketing. I e
 - <strong>Graphics-related</strong>: Illustrator, Photoshop   
 - <strong>Content Management Systems</strong>: Wordpress, Shopify, Joomla   
 - <strong>Other languages</strong>: PHP, TypeScript (Moderate), Laravel (Moderate), C# (Novice), Python (Novice), Cobol (Literally 1-2 projects)   
-- <strong>Honorable mentions</strong>: Git, Github, Command line, NPM, Deployment, SEO, Google Analytics, Website Audits and other random bits <br/><br/>     
+- <strong>Honorable mentions</strong>: Git, Github, Command line, NPM, Deployment, Agile, SEO, Google Analytics, Website Audits and other random bits <br/><br/>     
 
 ## About Me
 - 🔭 I’m currently working on becoming a complete developer (web, software, mobile, digital)
@@ -27,8 +27,8 @@ Full-stack developer with a background in traditional and digital marketing. I e
 
 ## Contact
 LinkedIn: [@derrickmstrong](https://www.linkedin.com/in/derrickmstrong/) <br/>
-Twitter: [@dmstr0ng](https://twitter.com/dmstr0ng)<br/><br/>
-Website: [www.derrickstrong.com](http://www.derrickstrong.com/)  <br/> 
+Twitter: [@dmstr0ng](https://twitter.com/dmstr0ng)<br/>
+Website: [www.derrickstrong.com](http://www.derrickstrong.com/)<br/><br/> 
 
 <!--
 ## Content
