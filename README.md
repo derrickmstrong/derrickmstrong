@@ -14,7 +14,7 @@ Full-stack developer with a background in traditional and digital marketing. I e
 - <strong>Database-related</strong>: SQL, MySQL, MongoDB, GraphQL (Novice)         
 - <strong>Graphics-related</strong>: Illustrator, Photoshop   
 - <strong>Content Management Systems</strong>: Wordpress, Shopify, Joomla   
-- <strong>Other languages</strong>: PHP (Experienced), TypeScript (Moderate), Laravel (Moderate), C# (Novice), Python (Novice), Cobol (Novice)   
+- <strong>Other languages</strong>: PHP, TypeScript (Moderate), Laravel (Moderate), C# (Novice), Python (Novice), Cobol (Literally 1-2 projects)   
 - <strong>Honorable mentions</strong>: Git, Github, Command line, NPM, Deployment, SEO, Google Analytics, Website Audits and other random bits <br/><br/>     
 
 ## About Me
@@ -26,9 +26,9 @@ Full-stack developer with a background in traditional and digital marketing. I e
 - ⚡ Fun fact: I'm actually a pretty good cook 🍜<br/><br/>
 
 ## Contact
-Website: [www.derrickstrong.com](http://www.derrickstrong.com/)  <br/> 
 LinkedIn: [@derrickmstrong](https://www.linkedin.com/in/derrickmstrong/) <br/>
 Twitter: [@dmstr0ng](https://twitter.com/dmstr0ng)<br/><br/>
+Website: [www.derrickstrong.com](http://www.derrickstrong.com/)  <br/> 
 
 <!--
 ## Content
