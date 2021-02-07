@@ -6,7 +6,6 @@
 Motivated full-stack developer with a background in traditional and digital marketing. I enjoy just about everything front-end and desire to strengthen my skills in backend development as well.<br/>
 
 ## Skills
-#### Note: I added soft skills first in this list because IMO without them...the other skills aren't as impressive     
 - <strong>Soft</strong>: Communication, Collaboration, Problem Solving, Creativity, Research, Time Management, Project Management      
 - <strong>Markup-related</strong>: HTML5, Markdown     
 - <strong>CSS-related</strong>: CSS3, Bootstrap, Tailwind, Materialize       
