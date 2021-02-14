@@ -12,7 +12,8 @@ Motivated full-stack developer with a background in traditional and digital mark
 - <strong>JavaScript-related</strong>: JavaScript (including ES6+), jQuery, ReactJS, VueJS, Node,js, Express.js   
 - <strong>Database-related</strong>: SQL, MySQL, MongoDB, GraphQL (Novice)         
 - <strong>Graphics-related</strong>: Illustrator, Photoshop   
-- <strong>Content Management Systems</strong>: Wordpress, Shopify, Joomla   
+- <strong>Content Management Systems</strong>: Wordpress, Shopify, Joomla
+- <strong>Auth</strong>: Okta, Auth0  
 - <strong>Other languages</strong>: PHP, TypeScript (Moderate), Laravel (Moderate), C# (Novice), Python (Novice), Cobol (Literally 1-2 projects)   
 - <strong>Honorable mentions</strong>: Git, Github, Command line, NPM, Deployment, Agile w/Kanban, SEO, Google Analytics, Website Audits and other random bits <br/><br/>     
 
