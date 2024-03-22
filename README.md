@@ -27,7 +27,6 @@ Motivated full-stack developer with a background in traditional and digital mark
 
 ## Contact
 LinkedIn: [@derrickmstrong](https://www.linkedin.com/in/derrickmstrong/) <br/>
-Twitter: [@dmstr0ng](https://twitter.com/dmstr0ng)<br/>
 Website: [www.derrickstrong.com](http://www.derrickstrong.com/)<br/><br/> 
 
 <!--
