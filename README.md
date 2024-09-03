@@ -15,7 +15,7 @@
 - <strong>Content Management Systems</strong>: ButterCMS, Wordpress, Shopify, Joomla
 - <strong>Auth</strong>: Okta, Auth0  
 - <strong>Other languages</strong>: PHP, TypeScript (Moderate), Gatsby (Moderate), C# (Novice), Python (Moderate), Cobol (Literally 1-2 projects)   
-- <strong>Honorable mentions</strong>: AWS, Git, Github, Command line, NPM, Deployment, Agile (Scrum), Figma, Sanity, Markdown, SEO, Google Analytics, Website Audits and other random bits <br/><br/>     
+- <strong>Honorable mentions</strong>: AWS, Git, Github, Command line, NPM, Deployment, Agile (Scrum), Figma, Sanity, SEO, Google Analytics, Website Audits and other random bits <br/><br/>     
 
 ### About Me
 - 👯 I’m looking to collaborate on app ideas + development, progressive web apps, podcast
