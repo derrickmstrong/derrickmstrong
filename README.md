@@ -3,9 +3,9 @@
 -->
 <!-- <img src="" width="900" /> -->
 
-Motivated full-stack engineer with a background in traditional and digital marketing.<br/>
+## Motivated full-stack engineer with a background in traditional and digital marketing.<br/>
 
-## Skills
+### Skills
 - <strong>Soft</strong>: Leadership, Communication, Collaboration, Problem Solving, Creativity, Research, Time Management, Project Management      
 - <strong>Markup-related</strong>: HTML5, Markdown     
 - <strong>CSS-related</strong>: CSS3, Bootstrap, Tailwind, Materialize       
@@ -15,15 +15,15 @@ Motivated full-stack engineer with a background in traditional and digital marke
 - <strong>Content Management Systems</strong>: ButterCMS, Wordpress, Shopify, Joomla
 - <strong>Auth</strong>: Okta, Auth0  
 - <strong>Other languages</strong>: PHP, TypeScript (Moderate), Gatsby (Moderate), C# (Novice), Python (Moderate), Cobol (Literally 1-2 projects)   
-- <strong>Honorable mentions</strong>: AWS, Git, Github, Command line, NPM, Deployment, Agile (Scrum), Figma, Sanity, SEO, Google Analytics, Website Audits and other random bits <br/><br/>     
+- <strong>Honorable mentions</strong>: AWS, Git, Github, Command line, NPM, Deployment, Agile (Scrum), Figma, Sanity, Markdown, SEO, Google Analytics, Website Audits and other random bits <br/><br/>     
 
-## About Me
+### About Me
 - 👯 I’m looking to collaborate on app ideas + development, progressive web apps, podcast
 - 🤔 I’m looking for additional opportunities to mentor other engineers
 - 💬 Ask me about front-end development, ReactJS, and all the super helpful resources that I have gathered over the years
 - ⚡ Fun fact: I'm actually a pretty good cook 🍜<br/><br/>
 
-## Contact
+### Contact
 LinkedIn: [@derrickmstrong](https://www.linkedin.com/in/derrickmstrong/) <br/>
 Website: [www.derrickstrong.com](http://www.derrickstrong.com/)<br/><br/> 
 
