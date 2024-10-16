@@ -3,7 +3,7 @@
 -->
 <!-- <img src="" width="900" /> -->
 
-## Software engineer with a bonus background in traditional and digital marketing.<br/>
+## Software engineer with a bonus background in traditional and digital marketing<br/>
 
 ### Skills
 - <strong>Soft</strong>: Leadership, Communication, Collaboration, Problem Solving, Creativity, Research, Time Management, Project Management      
