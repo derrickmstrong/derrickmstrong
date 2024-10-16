@@ -14,7 +14,7 @@
 - <strong>Graphics-related</strong>: Illustrator, Photoshop   
 - <strong>Content Management Systems</strong>: ButterCMS, Wordpress, Shopify, Joomla
 - <strong>Auth</strong>: Okta, Auth0  
-- <strong>Other languages</strong>: PHP, TypeScript, Gatsby, C#, Python, Cobol 
+- <strong>Other languages/frameworks</strong>: PHP, TypeScript, Gatsby, C#, .NET, Python, Cobol 
 - <strong>Honorable mentions</strong>: AWS, Git, Github, Command line, NPM, Deployment, Agile (Scrum), Figma, Sanity, SEO, Google Analytics, Website Audits and other random bits <br/><br/>     
 
 ### About Me
