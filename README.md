@@ -3,19 +3,19 @@
 -->
 <!-- <img src="" width="900" /> -->
 
-## Motivated full-stack engineer with a background in traditional and digital marketing.<br/>
+## Software engineer with a bonus background in traditional and digital marketing.<br/>
 
 ### Skills
 - <strong>Soft</strong>: Leadership, Communication, Collaboration, Problem Solving, Creativity, Research, Time Management, Project Management      
 - <strong>Markup-related</strong>: HTML5, Markdown     
 - <strong>CSS-related</strong>: CSS3, Bootstrap, Tailwind, Materialize       
 - <strong>JavaScript-related</strong>: JavaScript (including ES6+), jQuery, ReactJS, VueJS, Node.js, Express.js   
-- <strong>Database-related</strong>: SQL, MySQL, MongoDB, GraphQL        
+- <strong>Database-related</strong>: SQL, MySQL, MongoDB, GraphQL, Sanity
 - <strong>Graphics-related</strong>: Illustrator, Photoshop   
 - <strong>Content Management Systems</strong>: ButterCMS, Wordpress, Shopify, Joomla
 - <strong>Auth</strong>: Okta, Auth0  
-- <strong>Other languages/frameworks</strong>: PHP, TypeScript, Gatsby, C#, .NET, Python, Cobol 
-- <strong>Honorable mentions</strong>: AWS, Git, Github, Command line, NPM, Deployment, Agile (Scrum), Figma, Sanity, SEO, Google Analytics, Website Audits and other random bits <br/><br/>     
+- <strong>Other languages/frameworks</strong>: PHP, TypeScript, Gatsby, C#, .NET, Python 
+- <strong>Honorable mentions</strong>: AWS, Git, Github, Command line, NPM, Deployment, Agile (Scrum), Figma, SEO, Google Analytics, Website Audits and other random bits <br/><br/>     
 
 ### About Me
 - 👯 I’m looking to collaborate on app ideas + development, progressive web apps, podcast
