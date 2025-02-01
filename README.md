@@ -9,12 +9,12 @@
 - <strong>Soft</strong>: Leadership, Communication, Collaboration, Problem Solving, Creativity, Research, Time Management, Project Management      
 - <strong>Markup-related</strong>: HTML5, Markdown     
 - <strong>CSS-related</strong>: CSS3, Bootstrap, Tailwind, Materialize       
-- <strong>JavaScript-related</strong>: JavaScript (including ES6+), jQuery, ReactJS, VueJS, Node.js, Express.js   
+- <strong>JavaScript-related</strong>: JavaScript (including ES6+), jQuery, ReactJS, VueJS, Node.js, Express.js, Typescript   
 - <strong>Database-related</strong>: SQL, MySQL, MongoDB, GraphQL, Sanity
 - <strong>Graphics-related</strong>: Illustrator, Photoshop   
 - <strong>Content Management Systems</strong>: ButterCMS, Wordpress, Shopify, Joomla
 - <strong>Auth</strong>: Okta, Auth0  
-- <strong>Other languages/frameworks</strong>: PHP, TypeScript, Gatsby, C#, .NET, Python 
+- <strong>Other languages/frameworks</strong>: ASP, PHP, Gatsby, C#, .NET, Python 
 - <strong>Honorable mentions</strong>: AWS, Git, Github, Command line, NPM, Deployment, Agile (Scrum), Figma, SEO, Google Analytics, Website Audits and other random bits <br/><br/>     
 
 ### About Me
